@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: DEVOPS2/Bundle.properties
+OpenIDE-Module-Layer: DEVOPS2/layer.xml
